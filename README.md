@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Panji Perdana</h1>
 <h3 align="center">I am a passionate frontend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/18/c3/a2/18c3a2de94947f92647548804e932875.jpg">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/564x/18/c3/a2/18c3a2de94947f92647548804e932875.jpg">
 
 
 - 🔭 I’m currently studying on **Web Developer**.
