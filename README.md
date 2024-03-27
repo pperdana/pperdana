@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying on **Web Developer**.
 
-- 🔍 Check out my [**Frontend Mentor**](https://www.frontendmentor.io/profile/Panji200) projects.
+- 🔍 Check out my [**Frontend Mentor**](https://www.frontendmentor.io/profile/pperdana) projects.
 
 - 🌱 I’m currently learning **React**.
 
